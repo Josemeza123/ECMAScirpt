@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Jose Meza <enriquesais123@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
